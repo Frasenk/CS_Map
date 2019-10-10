@@ -1,16 +1,16 @@
 # CS_Map
 Mapka do ceesa
 
-How to start develop a map:
+How to start contributing to a map:
 
-1.Download from Steam CS:GO SDK (Library/tools)
+1. Download CS:GO SDK (Library/tools) from Steam
 
-2.Download .vmf file
+2. Download .vmf file via `git clone`
 
-3.Open CS:GO SDK 
+3. Open CS:GO SDK 
 
-4.Open .vmf file
+4. Open .vmf file in copied directory.
 
-Pelna instrukcja:
+Source and how to start:
 
 https://www.worldofleveldesign.com/categories/cat-csgo.php
